@@ -7,7 +7,7 @@
 
 <p align="center">
   <img alt="License" src="https://img.shields.io/badge/license-MIT-blue.svg">
-  <img alt="Build Status" src="https://img.shields.io/badge/build-passing-yellow.svg">
+  <img alt="Build Status" src="https://img.shields.io/badge/build-passing-sienna.svg">
 </p>
 
 ## Table of Contents
