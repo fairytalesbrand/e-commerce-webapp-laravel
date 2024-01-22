@@ -46,6 +46,7 @@ Laravel is a professional-grade PHP web application framework renowned for its e
 ```bash
 git clone https://github.com/fairytalesbrand/e-commerce-webapp-laravel.git
 cd e-commerce-webapp-laravel
+2023 XYZ, Inc.
 
 
 
