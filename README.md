@@ -7,7 +7,7 @@
 
 <p align="center">
   <img alt="License" src="https://img.shields.io/badge/license-Apache%202.0-blue.svg">
-  <img alt="Build Status" src="https://img.shields.io/badge/build-passing-sienna.svg">
+  <img alt="Build Status" src="https://img.shields.io/badge/build-passing-thistle.svg">
 </p>
 
 ## Table of Contents
